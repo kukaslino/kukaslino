@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor apaixonado por tecnologia, programação e aprendizado contínuo.  
 🎯 Atualmente focado em **C++**, **Python** e **Node.js**, mas sempre explorando novas linguagens e ferramentas.  
-📚 Interesses: **sistemas embarcados, IoT, inteligência artificial e desenvolvimento web**.  
+📚 Interesses: **sistemas embarcados, IoT e inteligência artificial **.  
 
 ---
 
@@ -22,17 +22,13 @@ Aqui alguns dos repositórios que mais representam meu trabalho:
 - [**Jogo_Cobrinha**](https://github.com/kukaslino/Jogo_Cobrinha) → Clássico Snake Game em Python  
 
 ---
-
-## 📊 Estatísticas do GitHub  
  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kukaslino&layout=compact&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=kukaslino&color=blue)
 
 ---
 
 ## 🌐 Onde me encontrar  
-- 💼 [LinkedIn](https://www.linkedin.com/in/cauepetri/)  
-- ✉️ Email: **seu-email@exemplo.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cauê-girardi-petri-45b414204)   
 
 ---
 
