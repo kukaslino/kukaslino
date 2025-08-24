@@ -24,9 +24,9 @@ Aqui alguns dos repositórios que mais representam meu trabalho:
 ---
 
 ## 📊 Estatísticas do GitHub  
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kukaslino&show_icons=true&theme=radical)  
+ 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kukaslino&layout=compact&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=kukaslino&color=blue)
 
 ---
 
