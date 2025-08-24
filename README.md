@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor apaixonado por tecnologia, programação e aprendizado contínuo.  
 🎯 Atualmente focado em **C++**, **Python** e **Node.js**, mas sempre explorando novas linguagens e ferramentas.  
-📚 Interesses: **sistemas embarcados, IoT e inteligência artificial **.  
+📚 Interesses: **sistemas embarcados, IoT e inteligência artificial**.  
 
 ---
 
